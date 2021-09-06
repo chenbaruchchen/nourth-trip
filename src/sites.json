@@ -1,0 +1,117 @@
+{
+  "sites": [
+    {
+      "name": "תל סאקי​",
+      "id": 0,
+      "Latitude": 32.86673210412268,
+      "Longitude": 35.82998374225463,
+      "image": "https://i.ibb.co/gWNBYGP/Whats-App-Image-2021-08-16-at-22-07-14-3.jpg"
+    },
+    {
+      "name": "עמק הבכא​",
+      "id": 1,
+      "Latitude": 33.17810639638422,
+      "Longitude": 35.77258375759269,
+      "image": "https://i.ibb.co/1XJK5wX/Whats-App-Image-2021-08-16-at-22-07-15-2.jpg"
+    },
+    {
+      "name": "תל פאחר​",
+      "id": 2,
+      "Latitude": 33.22541565372394,
+      "Longitude": 35.69118054224752,
+      "image": "https://i.ibb.co/nRg29qd/Whats-App-Image-2021-08-16-at-22-07-14-4.jpg"
+    },
+    {
+      "name": "חצר תל חי​",
+      "id": 3,
+      "Latitude": 33.23393367996972,
+      "Longitude": 35.57735250177215,
+      "image": "https://i.ibb.co/tQ2rP4g/Whats-App-Image-2021-08-16-at-22-07-13-2.jpg"
+    },
+    {
+      "name": "משגב עם​",
+      "id": 4,
+      "Latitude": 33.25031553855538,
+      "Longitude": 35.548309815263565,
+      "image": "https://i.ibb.co/VwBdHNd/Whats-App-Image-2021-08-16-at-22-07-15-4.jpg"
+    },
+    {
+      "name": "מצודת כוח​",
+      "id": 5,
+      "Latitude": 33.11488489187547,
+      "Longitude": 35.556419430610845,
+      "image": "https://i.ibb.co/8zVFJXM/Whats-App-Image-2021-08-16-at-22-07-13-1.jpg"
+    },
+    {
+      "name": "תל מוטילה​",
+      "id": 6,
+      "Latitude": 32.908372163613826,
+      "Longitude": 35.60585954410649,
+      "image": "https://i.ibb.co/5j24JQr/Whats-App-Image-2021-08-16-at-22-07-13.jpg"
+    },
+    {
+      "name": "יד ליד​​",
+      "id": 7,
+      "Latitude": 33.0511747707191,
+      "Longitude": 35.103291645956645,
+      "image": "https://i.ibb.co/0ZDLbbr/Whats-App-Image-2021-08-16-at-22-07-14-2.jpg"
+    },
+    {
+      "name": "שיירת יחיעם​",
+      "id": 8,
+      "Latitude": 33.01002292295546,
+      "Longitude": 35.14744173061285,
+
+      "image": "https://i.ibb.co/m98M6c6/Whats-App-Image-2021-08-16-at-22-07-14-1.jpg"
+    },
+    {
+      "name": "מבצר יחיעם​​",
+      "id": 9,
+      "Latitude": 32.99550043630972,
+      "Longitude": 35.221540415272145,
+      "image": "https://i.ibb.co/qx7mYtB/Whats-App-Image-2021-08-16-at-22-07-14.jpg"
+    },
+    {
+      "name": "מעלות​​",
+      "id": 10,
+      "Latitude": 33.0243030972481,
+      "Longitude": 35.27433637591549,
+      "image": "https://i.ibb.co/g99SC7D/Whats-App-Image-2021-08-16-at-22-07-15.jpg"
+    },
+    {
+      "name": "גבעת הרבטים",
+      "id": 11,
+      "Latitude": 33.08401780517977,
+      "Longitude": 35.305547128758654,
+      "image": "https://i.ibb.co/NLFZvSb/Whats-App-Image-2021-08-16-at-22-07-15-6.jpg"
+    },
+    {
+      "name": "הר אדיר​​",
+      "id": 12,
+      "Latitude": 33.034097734738154,
+      "Longitude": 35.369051621021434,
+      "image": "https://i.ibb.co/KXgNRKq/Whats-App-Image-2021-08-16-at-22-07-15-3.jpg"
+    },
+    {
+      "name": "מנהרת זרעית​​",
+      "id": 13,
+      "Latitude": 33.101346765189376,
+      "Longitude": 35.29017953093134,
+      "image": "https://i.ibb.co/BKfy64W/Whats-App-Image-2021-08-16-at-22-07-16.jpg"
+    },
+    {
+      "name": "מצפור הר דב​​",
+      "id": 14,
+      "Latitude": 33.33369438690103,
+      "Longitude": 35.71507007131156,
+      "image": "https://i.ibb.co/F8nKKZ3/Whats-App-Image-2021-08-16-at-22-07-15-5.jpg"
+    },
+    {
+      "name": "גבעות הקרב​​",
+      "id": 15,
+      "Latitude": 33.300519359239175,
+      "Longitude": 35.78512275759036,
+      "image": "https://i.ibb.co/vdy1K45/Whats-App-Image-2021-08-16-at-22-07-15-1.jpg"
+    }
+  ]
+}

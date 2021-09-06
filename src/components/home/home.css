@@ -1,0 +1,27 @@
+.Home {
+  text-align: center;
+  display: grid;
+  align-content: center;
+  align-items: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3JF2LMSWHtp7CxTnL3wO6n3-_Pn0nrjXXQ&usqp=CAU");
+
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+* {
+  font-family: "Bellefair", serif;
+}
+
+.text {
+  color: white;
+  height: auto;
+  margin-top: 10vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
+.DisplayPage > * {
+  margin-top: "7vh";
+}

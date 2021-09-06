@@ -1,0 +1,9 @@
+.ptzan {
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/PazanLogo.svg/1024px-PazanLogo.svg.png);
+
+  background-size: cover;
+  border-radius: 50%;
+}
